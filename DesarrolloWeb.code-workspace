@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "PreEntrega3-Clissa",
+			"path": "../../Desktop/PreEntrega3-Clissa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
